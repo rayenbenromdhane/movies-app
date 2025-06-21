@@ -8,9 +8,9 @@ const Navbar = () => {
           <b>CIMAFREE</b>            
         </div>
         <ul>
-          <b><a href="">About</a></b>
-          <b><a href="">Homme</a></b>
-          <b><a href="#movies-list">Movies</a></b>
+          <b><a id='link' href="">About</a></b>
+          <b><a id='link' href="">Home</a></b>
+          <b><a id='link' href="#movies-list">Movies</a></b>
         </ul>
     </nav>
     </div>

@@ -17,7 +17,9 @@ export const movies = [
        "poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
        "imdbRating": "9.3",
        "imdbId": "tt0111161",
-       "boxOffice": "$28,767,189"
+       "boxOffice": "$28,767,189",
+       "cla" : "a",
+       "classe" : ".a"
     },
     {
        "id": "2",
